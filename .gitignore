@@ -1,0 +1,4 @@
+data/
+merged/
+__pycache__/
+*.log
